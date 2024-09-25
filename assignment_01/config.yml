@@ -1,9 +1,9 @@
 ---
 
-"COURSE": "CAU_OOP_2023"
+"COURSE": "CAU_OOP_2024"
 "ASSIGNMENT": "ASSIGNMENT_01"
 
-"ID": "20231234"
+"ID": "20241234"
 "FILES":
     - "YOUR-PATH-TO/assignment_01/mathlib.cpp"
     - "YOUR-PATH-TO/assignment_01/mathlib.h"
